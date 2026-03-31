@@ -1,7 +1,7 @@
 # OSS Audit Project: LibreOffice
 
-* **Student Name:** NUNE VARUN TEJA
-* **Registration Number:** 24BAS10001
+* **Student Name:** SANAPATHI RESHMI
+* **Registration Number:** 24BAS10110
 * **Course:** Open Source Software  
 * **Date of Submission:** March 31, 2026
 
